@@ -1,3 +1,10 @@
+## [1.16.3](https://github.com/kamaradclimber/logseq-awesome-links/compare/v1.16.2...v1.16.3) (2025-03-04)
+
+
+### Bug Fixes
+
+* **slack:** replace with image ([bc7334b](https://github.com/kamaradclimber/logseq-awesome-links/commit/bc7334b8eb367b34eadf3f8be2b17585fc584b1c))
+
 ## [1.16.2](https://github.com/kamaradclimber/logseq-awesome-links/compare/v1.16.1...v1.16.2) (2025-03-04)
 
 
