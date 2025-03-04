@@ -1,3 +1,10 @@
+## [1.16.2](https://github.com/kamaradclimber/logseq-awesome-links/compare/v1.16.1...v1.16.2) (2025-03-04)
+
+
+### Bug Fixes
+
+* **slack:** Replace with another slack svg (color) ([36b8964](https://github.com/kamaradclimber/logseq-awesome-links/commit/36b8964941af19980300c1de65516469a4f54c37))
+
 ## [1.16.1](https://github.com/kamaradclimber/logseq-awesome-links/compare/v1.16.0...v1.16.1) (2025-03-04)
 
 
