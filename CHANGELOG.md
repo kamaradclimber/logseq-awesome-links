@@ -1,3 +1,10 @@
+## [1.16.1](https://github.com/kamaradclimber/logseq-awesome-links/compare/v1.16.0...v1.16.1) (2025-03-04)
+
+
+### Bug Fixes
+
+* **slack:** Correct svg size ([237780e](https://github.com/kamaradclimber/logseq-awesome-links/commit/237780eba1be006955d0e37312e60fc6c9c969b7))
+
 # [1.16.0](https://github.com/kamaradclimber/logseq-awesome-links/compare/v1.15.16...v1.16.0) (2025-03-04)
 
 
