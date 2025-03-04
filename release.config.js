@@ -1,5 +1,6 @@
 module.exports = {
   branches: ["main"],
+  repositoryUrl: "ssh://git@github.com/kamaradclimber/logseq-awesome-links.git",
   plugins: [
     [
       "@semantic-release/commit-analyzer",
