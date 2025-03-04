@@ -1,3 +1,16 @@
+# [1.16.0](https://github.com/kamaradclimber/logseq-awesome-links/compare/v1.15.16...v1.16.0) (2025-03-04)
+
+
+### Bug Fixes
+
+* **ci:** Bump pnpm action to fix "ERR_INVALID_THIS error." ([dc70141](https://github.com/kamaradclimber/logseq-awesome-links/commit/dc701418aa70ee35a1e8eb13f720bf0c39c1d23f))
+* **ci:** Force releases from this fork ([65cb0b9](https://github.com/kamaradclimber/logseq-awesome-links/commit/65cb0b93f579e5fac9b6738ebb615d20dafb56ef))
+
+
+### Features
+
+* **favicon:** Add slack links favicon ([e86aa03](https://github.com/kamaradclimber/logseq-awesome-links/commit/e86aa03aa30b4e85715d9720eb10082ac68a165c))
+
 ## [1.15.16](https://github.com/yoyurec/logseq-awesome-links/compare/v1.15.15...v1.15.16) (2023-03-13)
 
 
